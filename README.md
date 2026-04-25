@@ -1,3 +1,12 @@
+
+## My Build Process
+* Sync Fork: Navigate to your Code tab on GitHub. Click Sync fork then Update branch to pull in the latest official code.
+* Navigate to Actions: Click the Actions tab at the top of your repository.
+* Trigger Build: Select the AAPS-CI (or your custom build) workflow on the left sidebar.
+* Run Workflow: Click the Run workflow dropdown on the right, ensure the branch is master (or the version you want), and click the green Run workflow button.
+* Verification: Wait roughly 15–20 minutes. Once you see the green checkmark, the APK will be in your Google Drive (usually in an AAPS folder).
+
+
 # AAPS
 * Check the wiki: https://wiki.aaps.app
 *  Everyone who’s been looping with AAPS needs to fill out the form after 3 days of looping  https://docs.google.com/forms/d/14KcMjlINPMJHVt28MDRupa4sz4DDIooI4SrW0P3HSN8/viewform?c=0&w=1
